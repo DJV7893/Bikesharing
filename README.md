@@ -53,6 +53,7 @@ Among subscribers, ridership is much higher with men whereas with Customers ther
 ## Summary:
 ---
 Our CitiBike data analysis has provided an effective insight into the functionality of a bike-sharing program within the boundaries of a major urban setting. We were able to effectively parse out patterns of bike usage in relation to time and gender which allowed us to determine utilization rates based on time of day and location. The peak of hours for Weekday trips are correlated to commuting hours in the morning and afternoon whereas Weekend usage is evenly spread out, lacking a signifcant peak. 
+
 In order to get a better grasp of bike utilization for Des Moines bike-sharing program we should develop further visualizations. We only have small snapshot of bike utilization in NYC with the August Data we analyzed. We need to take data from an entire year and create a visualization that shows the average peak hours over a larger period of time. Furthermore, we can create a second visualization that is subdivided by seasons of the year in order to see what are the peak hours for the summmer when there are more people outside and more tourists vs the winter months when its colder out. This will allow us to better grasp how large our bike-sharing program should be in Des Moines and how to best draw members of the community to participate in the program.
 
 ---

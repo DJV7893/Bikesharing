@@ -1,5 +1,6 @@
 # Bikesharing
 
+
 ---
 ## Overview:
 ---
@@ -15,6 +16,8 @@ After creating these visualizations we will add them to a final presentation in 
 ---
 ## Results:
 ---
+
+Tableau Public Link: [link to dashboard](https://public.tableau.com/views/NYCCitibikeChallenge_16535798172630/NYC-DesMoinesStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
 Visualization 1: Checkout Times for Users
 

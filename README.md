@@ -59,6 +59,6 @@ In order to get a better grasp of bike utilization for Des Moines bike-sharing p
 ## Resources:
 ---
 
-Data Source: 
+Data Source: 201908-citibike-tripdata.csv
 
 Software: Jupyter Notebook, Tableau Public

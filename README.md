@@ -20,19 +20,19 @@ Visualization 1: Checkout Times for Users
 
 <img width="1272" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/99817571/170549732-868a6779-ad16-42f0-99b2-3affa69984d6.png">
 
-Peak checkout time for bikes last around 10 minutes and most rides end around 20 minutes.
+Peak checkout time for bikes last around 10 minutes and most rides end before 30 minutes.
 
 Visualization 2: Checkout Times by Gender
 
 <img width="1274" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/99817571/170549813-e575a142-cad9-4f90-a6a0-1669a981d42f.png">
 
-Male checkout of bikes is substantially larger than for females with around 110k checkouts at its peak for males and around 35k for females. Both follow the same pattern with bike checkouts peaking at 10 minutes and most rides ending after 20 minutes.
+Male checkout of bikes is substantially larger than for females with around 110k checkouts at its peak for males and around 35k for females. Both follow the same pattern with bike checkouts peaking at 10 minutes and most rides ending before 30 minutes.
 
 Visualization 3: Trips by Weekday per Hour
 
 <img width="1273" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/99817571/170549840-452242d2-da9c-4936-ac29-4e9497844e4d.png">
 
-There are peak hours of bike trips in the morning (7-9 a.m.) and in the afternoon (4-7 p.m.) during the week except for Wednesday. This trend is most likely correlated to the daily commute for NYC residents.
+There are peak hours of bike trips in the morning (7-9 a.m.) and in the afternoon (4-7 p.m.) during the week except for Wednesday. This trend is most likely correlated to the daily commute of NYC residents to work.
 
 Visualization 4: Trips by Gender (Weekday per Hour)
 
